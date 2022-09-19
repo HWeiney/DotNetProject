@@ -1,0 +1,14 @@
+D:\编程刷题\DotNet项目\HomeWord02\bin\Debug\netcoreapp3.1\HomeWord02.exe
+D:\编程刷题\DotNet项目\HomeWord02\bin\Debug\netcoreapp3.1\HomeWord02.deps.json
+D:\编程刷题\DotNet项目\HomeWord02\bin\Debug\netcoreapp3.1\HomeWord02.runtimeconfig.json
+D:\编程刷题\DotNet项目\HomeWord02\bin\Debug\netcoreapp3.1\HomeWord02.runtimeconfig.dev.json
+D:\编程刷题\DotNet项目\HomeWord02\bin\Debug\netcoreapp3.1\HomeWord02.dll
+D:\编程刷题\DotNet项目\HomeWord02\bin\Debug\netcoreapp3.1\HomeWord02.pdb
+D:\编程刷题\DotNet项目\HomeWord02\obj\Debug\netcoreapp3.1\HomeWord02.csproj.AssemblyReference.cache
+D:\编程刷题\DotNet项目\HomeWord02\obj\Debug\netcoreapp3.1\HomeWord02.GeneratedMSBuildEditorConfig.editorconfig
+D:\编程刷题\DotNet项目\HomeWord02\obj\Debug\netcoreapp3.1\HomeWord02.AssemblyInfoInputs.cache
+D:\编程刷题\DotNet项目\HomeWord02\obj\Debug\netcoreapp3.1\HomeWord02.AssemblyInfo.cs
+D:\编程刷题\DotNet项目\HomeWord02\obj\Debug\netcoreapp3.1\HomeWord02.csproj.CoreCompileInputs.cache
+D:\编程刷题\DotNet项目\HomeWord02\obj\Debug\netcoreapp3.1\HomeWord02.dll
+D:\编程刷题\DotNet项目\HomeWord02\obj\Debug\netcoreapp3.1\HomeWord02.pdb
+D:\编程刷题\DotNet项目\HomeWord02\obj\Debug\netcoreapp3.1\HomeWord02.genruntimeconfig.cache
