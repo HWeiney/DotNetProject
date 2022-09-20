@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ru6GVpWTd0jGPIsEXE8tseQq+wXLHHhrGKnE19961sdrPQdq54Gj8xkf0tO681ggrZBpRCbHONg6RtfEfq50MQ==",
+  "success": true,
+  "projectFilePath": "D:\\编程刷题\\DotNet项目\\HomeWork07\\HomeWork07.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
