@@ -1,0 +1,14 @@
+D:\编程刷题\DotNet项目\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.exe
+D:\编程刷题\DotNet项目\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.deps.json
+D:\编程刷题\DotNet项目\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.runtimeconfig.json
+D:\编程刷题\DotNet项目\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.runtimeconfig.dev.json
+D:\编程刷题\DotNet项目\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.dll
+D:\编程刷题\DotNet项目\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.pdb
+D:\编程刷题\DotNet项目\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.csproj.AssemblyReference.cache
+D:\编程刷题\DotNet项目\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.GeneratedMSBuildEditorConfig.editorconfig
+D:\编程刷题\DotNet项目\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.AssemblyInfoInputs.cache
+D:\编程刷题\DotNet项目\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.AssemblyInfo.cs
+D:\编程刷题\DotNet项目\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.csproj.CoreCompileInputs.cache
+D:\编程刷题\DotNet项目\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.dll
+D:\编程刷题\DotNet项目\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.pdb
+D:\编程刷题\DotNet项目\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.genruntimeconfig.cache
